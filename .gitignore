@@ -5,6 +5,7 @@
 
 # dotenv files
 .env
+*.nitin
 
 # User-specific files
 *.rsuser
